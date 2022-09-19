@@ -1,1 +1,1 @@
-# Oteria_CS
+Espace dédié aux travaux réalisés sur Python
